@@ -2,7 +2,7 @@
 
 Official repo for [Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://arxiv.org/abs/2302.09778).
 
-See [Project Page](https://damo-vilab.github.io/composer-page/) of Composer for more examples.
+See [Project Page](https://damo-vilab.github.io/composer-page/) for more examples.
 
 ![Concept of Composer](assets/teaser.jpg "Concept of Composer")
 <!-- *(Concept of Composer)* -->
