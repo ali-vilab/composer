@@ -15,7 +15,7 @@ Composer is a large (5 billion parameters) controllable diffusion model trained 
 - [ ] Release training and inference code.
 - [ ] Release pretrained models.
 - [ ] Release Gradio UI.
-- [ ] A light-weighted Latent-Composer built upon Stable Diffusion 2.0.
+- [ ] A light-weighted Latent-Composer built upon Stable Diffusion 2.1.
 
 
 ## Composition Results
